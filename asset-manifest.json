@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/EcommerceShoe/static/css/main.c8d146a2.css",
-    "main.js": "/EcommerceShoe/static/js/main.1dd9e52b.js",
-    "static/media/shoe.gif": "/EcommerceShoe/static/media/shoe.b28e6e8ddd699e9d5873.gif",
-    "static/media/Gif.gif": "/EcommerceShoe/static/media/Gif.5764bc5fee8fba9a6d8b.gif",
-    "static/media/JordanImg.jpg": "/EcommerceShoe/static/media/JordanImg.ea099143ae5ed54acd64.jpg",
-    "static/media/VerifyImg.jpg": "/EcommerceShoe/static/media/VerifyImg.f0a48195964b52824e1d.jpg",
-    "static/media/BoxImg.png": "/EcommerceShoe/static/media/BoxImg.b5add880ba32dfd95f68.png",
-    "index.html": "/EcommerceShoe/index.html",
-    "main.c8d146a2.css.map": "/EcommerceShoe/static/css/main.c8d146a2.css.map",
-    "main.1dd9e52b.js.map": "/EcommerceShoe/static/js/main.1dd9e52b.js.map"
+    "main.css": "/ShoeEcommerce/static/css/main.160af749.css",
+    "main.js": "/ShoeEcommerce/static/js/main.6c902a06.js",
+    "static/media/shoe.gif": "/ShoeEcommerce/static/media/shoe.b28e6e8ddd699e9d5873.gif",
+    "static/media/Gif.gif": "/ShoeEcommerce/static/media/Gif.5764bc5fee8fba9a6d8b.gif",
+    "static/media/JordanImg.jpg": "/ShoeEcommerce/static/media/JordanImg.ea099143ae5ed54acd64.jpg",
+    "static/media/VerifyImg.jpg": "/ShoeEcommerce/static/media/VerifyImg.f0a48195964b52824e1d.jpg",
+    "static/media/BoxImg.png": "/ShoeEcommerce/static/media/BoxImg.b5add880ba32dfd95f68.png",
+    "index.html": "/ShoeEcommerce/index.html",
+    "main.160af749.css.map": "/ShoeEcommerce/static/css/main.160af749.css.map",
+    "main.6c902a06.js.map": "/ShoeEcommerce/static/js/main.6c902a06.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8d146a2.css",
-    "static/js/main.1dd9e52b.js"
+    "static/css/main.160af749.css",
+    "static/js/main.6c902a06.js"
   ]
 }
