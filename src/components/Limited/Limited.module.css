@@ -1,0 +1,20 @@
+
+
+.featured .poster{
+    margin: 5%;
+    position:absolute;
+    width:20vw;
+    height:60%;
+   left:10%;
+    z-index: 1;
+    transition: 0.5s ease-out;
+}
+
+.featured img:nth-of-type(2){
+    position: relative;
+    width:70vw;
+}
+
+.featured .poster:hover{
+    transform: scale(1.15);
+}
